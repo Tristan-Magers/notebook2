@@ -1,0 +1,4 @@
+# additional/misc files sometimes cached by Python
+*.py[cod]
+__pycache__/
+.ipynb_checkpoints/
